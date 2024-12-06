@@ -1,0 +1,16 @@
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\bin\Debug\CourseRegistration.exe.config
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\bin\Debug\CourseRegistration.exe
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\bin\Debug\CourseRegistration.pdb
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.exe
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.pdb
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.AdminEntry.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.StudentEntry.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.TeacherEntry.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.StudentPage.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.TeacherPage.resources
+C:\Users\bengi\Desktop\C# Projects\CourseRegistration\CourseRegistration\obj\Debug\CourseRegistration.AdminPage.resources
